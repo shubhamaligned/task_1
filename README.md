@@ -14,5 +14,5 @@ This is a FastAPI-based e-commerce API that allows users to manage products and 
 
 ### 1. Clone the Repository
 ```bash
-git clone 
-cd 
+git clone https://github.com/shubhamaligned/task_1.git
+cd task_1
