@@ -20,8 +20,8 @@ This is a FastAPI-based RESTful API for creating posts and comments. The API all
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/
-cd 
+git clone git clone https://github.com/shubhamaligned/task_1.git
+cd task_1/task_2
 ```
 
 ### 2️⃣ Create a Virtual Environment
