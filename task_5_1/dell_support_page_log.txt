@@ -1,0 +1,140 @@
+=== Images ===
+Src: https://www.dellcdn.com/support/home/bundle/img/herosmnoauth.png, Alt: No Alt Text
+
+=== Hyperlinks ===
+Text: Privacy Statement. visit this link to learn more about cookies. Opens in new window, Href: https://www.dell.com/learn/in/en/incorp1/policies-privacy
+Text: None, Href: https://www.dell.com/support/home/en-in#mh-main
+Text: Dell Technologies Home, Href: https://www.dell.com/en-in
+Text: None, Href: https://www.dell.com/en-in
+Text: None, Href: https://www.dell.com/premier/home
+Text: None, Href: https://www.delltechnologies.com/partner/en-in/auth/partner-portal.htm
+Text: None, Href: https://www.dell.com/support/home/en-in
+Text: None, Href: https://www.dell.com/en-in
+Text: None, Href: https://www.dell.com/premier/home
+Text: None, Href: https://www.delltechnologies.com/partner/en-in/auth/partner-portal.htm
+Text: None, Href: https://www.dell.com/support/home/en-in
+Text: None, Href: https://www.dell.com/myaccount/en-in
+Text: None, Href: https://www.dell.com/myaccount/en-in/orders
+Text: None, Href: https://www.dell.com/myaccount/en-in/account-settings/profile
+Text: None, Href: https://www.dell.com/support/mps/en-in/myproducts
+Text: None, Href: https://www.dell.com/di/v3/fp/session/logout/3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a?redirect_uri=
+Text: None, Href: https://www.dell.com/di/v3/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&redirect_uri=
+Text: None, Href: https://www.dell.com/di/v3/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&action=register&redirect_uri=
+Text: None, Href: https://www.dell.com/premier/home
+Text: None, Href: https://www.delltechnologies.com/partner/en-in/auth/partner-portal.htm
+Text: Contact Us, Href: https://www.dell.com/en-in/lp/contact-us
+Text: Products, Href: https://www.dell.com/en-in
+Text: Solutions, Href: https://www.dell.com/en-in/lp/dt/solutions
+Text: Services, Href: https://www.dell.com/en-in/lp/dt/services
+Text: None, Href: https://www.dell.com/support/home/en-in
+Text: None, Href: https://www.dell.com/support/contents/en-in/category/product-support/self-support-knowledgebase
+Text: None, Href: https://www.dell.com/support/contents/en-in/videos
+Text: None, Href: https://www.dell.com/support/contractservices/en-in/
+Text: None, Href: https://www.dell.com/support/home/en-in?app=drivers
+Text: None, Href: https://www.dell.com/support/home/en-in?app=manuals
+Text: None, Href: https://www.dell.com/support/home/en-in/quicktest
+Text: None, Href: https://www.dell.com/support/contents/en-in/article/warranty/Self-Repair
+Text: None, Href: https://www.dell.com/support/incidents-online/en-in/srsearch
+Text: None, Href: https://www.dell.com/support/order-status/en-in/order-support
+Text: None, Href: https://www.dell.com/support/incidents-online/en-in/contactus/dynamic?spestate
+Text: None, Href: https://www.dell.com/community/en/categories/dell-community
+Text: None, Href: https://www.dell.com/en-in/lp/contact-us
+Text: Sign In, Href: https://www.dell.com/dci/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&redirect_uri=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-in
+Text: Create an Account, Href: https://www.dell.com/di/v3/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&action=register&redirect_uri=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-in
+Text: Visit our business support site, Href: https://www.dell.com/dci/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&redirect_uri=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-in
+Text: Need help with Windows?, Href: https://www.dell.com/support/contents/en-in/category/product-support/self-support-knowledgebase/operating-systems/windows-operating-systems
+Text: Update Drivers, Href: https://www.dell.com/support/home/en-in?app=drivers
+Text: Scan Hardware, Href: https://www.dell.com/support/home/en-in/quicktest
+Text: Visit Service Requests, Href: https://www.dell.com/support/incidents-online/en-in/srsearch
+Text: Manage Support Services, Href: https://www.dell.com/support/home/en-in?app=warranty
+Text: Find Order Status, Href: https://www.dell.com/support/order-status/en-in/order-support
+Text: None, Href: https://www.dell.com/support/kbdoc/000021768
+Text: How to find your product identifier, Href: javascript:void(0);
+Text: detect this PC automatically, Href: javascript:void(0);
+Text: Find Articles, Href: https://www.dell.com/support/contents/en-in/category/product-support/self-support-knowledgebase
+Text: Watch Support Videos, Href: https://www.dell.com/support/contents/en-in/videos
+Text: Join Community, Href: https://www.dell.com/community/Dell-Community/ct-p/English?profile.language=en
+Text: Find Manuals, Href: https://www.dell.com/support/home/en-in?app=manuals
+Text: Resolve No Power, No POST, No Boot or No Video Issues, Href: https://www.dell.com/support/kbdoc/en-in/000125609/resolve-no-power-no-post-no-boot-or-no-video-issues
+Text: None, Href: https://www.dell.com/support/kbdoc/en-in/000125609/resolve-no-power-no-post-no-boot-or-no-video-issues
+Text: How To Troubleshoot No POST, No Power, No Video Issues on a Dell Desktop, Href: https://www.dell.com/support/kbdoc/en-in/000129583/how-to-troubleshoot-no-post-no-power-no-video-issues-on-a-dell-desktop
+Text: None, Href: https://www.dell.com/support/kbdoc/en-in/000129583/how-to-troubleshoot-no-post-no-power-no-video-issues-on-a-dell-desktop
+Text: How to Check Battery Health Status on Dell Laptops, Href: https://www.dell.com/support/kbdoc/en-in/000124397/how-to-check-battery-health-status-on-dell-laptops
+Text: None, Href: https://www.dell.com/support/kbdoc/en-in/000124397/how-to-check-battery-health-status-on-dell-laptops
+Text: BIOS Update Helps Prevent No Power and No POST Failure Modes, Href: https://www.dell.com/support/kbdoc/en-in/000211987/bios-update-helps-prevent-no-power-and-no-post-failure-modes
+Text: None, Href: https://www.dell.com/support/kbdoc/en-in/000211987/bios-update-helps-prevent-no-power-and-no-post-failure-modes
+Text: Dell Laptop Battery Warranty Support, Href: https://www.dell.com/support/kbdoc/en-in/000123808/dell-laptop-battery-warranty-support
+Text: None, Href: https://www.dell.com/support/kbdoc/en-in/000123808/dell-laptop-battery-warranty-support
+Text: Services management and analytics for IT infrastructure., Href: https://www.dell.com/support/myservice360/en-in
+Text: Procedures to install, upgrade and replace IT infrastructure., Href: https://solve.dell.com/solve/home
+Text: Self-dispatches and monitoring for client devices and servers., Href: https://techdirect.dell.com/portal/Login.aspx
+Text: Manage Subscriptions, Href: https://www.dell.com/support/home/en-in?app=licenses
+Text: Sign In, Href: https://www.dell.com/support/mps/en-in
+Text: Sign In, Href: https://www.dell.com/myaccount/en-in/overview
+Text: Contact Support, Href: https://www.dell.com/support/contents/en-in/category/contact-information
+Text: Contact Support, Href: https://www.dell.com/support/home/en-in#
+Text: None, Href: https://www.dell.com/support/incidents-online/ContactUs/Dynamic?spestate
+Text: None, Href: https://www.dell.com/support/order-status/order-support?ta=ccs
+Text: Site Map, Href: https://www.dell.com/en-in/sitemap
+Text: My Account, Href: https://www.dell.com/myaccount/en-in
+Text: Order Status, Href: https://www.dell.com/myaccount/en-in/orders
+Text: Profile Settings, Href: https://www.dell.com/myaccount/en-in/account-settings/profile
+Text: My Products, Href: https://www.dell.com/support/mps/en-in/myproducts
+Text: Support Home, Href: https://www.dell.com/support/home/en-in
+Text: Contact Technical Support, Href: https://www.dell.com/support/incidents-online/en-in/contactus/dynamic?spestate
+Text: Returns, Href: https://www.dell.com/en-in/lp/return-policy
+Text: Community, Href: https://www.dell.com/community/en/categories/dell-community
+Text: Contact Us, Href: https://www.dell.com/en-in/lp/contact-us
+Text: None, Href: https://www.dell.com/en-in/sitemap
+Text: Artificial Intelligence, Href: https://www.dell.com/en-in/dt/solutions/artificial-intelligence/index.htm
+Text: Products, Href: https://www.dell.com/en-in
+Text: Solutions, Href: https://www.dell.com/en-in/lp/dt/solutions
+Text: Services, Href: https://www.dell.com/en-in/lp/dt/services
+Text: Deals, Href: https://www.dell.com/en-in/shop/deals
+Text: Who We Are, Href: https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm
+Text: Careers, Href: https://jobs.dell.com/
+Text: Dell Technologies Capital, Href: https://www.delltechnologiescapital.com/
+Text: Investors, Href: https://investors.delltechnologies.com/
+Text: Newsroom, Href: https://www.dell.com/en-in/dt/corporate/newsroom.htm
+Text: Recycling, Href: https://www.dell.com/en-in/dt/corporate/social-impact/reporting/policies-and-positions/weee-consumer-legislation.htm#tab0=1
+Text: ESG & Impact, Href: https://www.dell.com/en-in/dt/corporate/social-impact.htm
+Text: Customer Stories, Href: https://www.dell.com/en-in/dt/case-studies-customer-stories/index.htm
+Text: Find a Partner, Href: https://dell.my.site.com/FindAPartner/s/partnersearch?language=en&country=in
+Text: OEM Solutions, Href: https://www.dell.com/en-in/lp/dt/oem-solutions
+Text: Partner Program, Href: https://www.delltechnologies.com/partner/en-in/partner/partner.htm
+Text: Blog, Href: https://www.dell.com/en-in/blog/
+Text: Dell Rewards, Href: https://www.dell.com/en-in/lp/dell-rewards-program
+Text: Events, Href: https://www.dell.com/en-in/dt/events/index.htm
+Text: Email Sign-Up, Href: https://campaign.dell.com/webApp/unifiedSignUp?lang=EN&country=IN
+Text: Privacy Centre, Href: https://www.dell.com/en-in/lp/privacy-center
+Text: Security & Trust Centre, Href: https://www.dell.com/en-in/dt/about-us/security-and-trust-center/index.htm
+Text: Trial Software Downloads, Href: https://www.dell.com/en-in/dt/software-downloads/index.htm
+Text: Dell Technologies, Href: https://www.dell.com/en-in
+Text: Dell Premier, Href: https://www.dell.com/en-in/lp/dt/dell-premier
+Text: Copyright © 2025 Dell Inc., Href: https://www.dell.com/en-in/lp/legal/site-terms-of-use-copyright
+Text: Terms of Sale, Href: https://www.dell.com/en-in/lp/legal/terms-of-sale
+Text: Privacy Statement, Href: https://www.dell.com/en-in/lp/legal/policies-privacy
+Text: Cookies, Ads & Emails, Href: https://www.dell.com/en-in/lp/legal/policies-cookies-ads-emails
+Text: Legal & Regulatory, Href: https://www.dell.com/en-in/lp/legal/terms
+Text: Accessibility, Href: https://www.dell.com/en-in/lp/accessibility
+Text: ., Href: https://www.dell.com/en-in
+
+=== Buttons ===
+Text: Navigation
+Text: Cancel
+Text: Search Dell or identify your product
+Text: Cancel
+Text: Support
+Text: close dialog
+Text: close dialog
+Text: Search
+Text: Identify Or Search
+Text: Detect This PC
+Text: Recently Viewed
+Text: Browse All Products
+Text: My Products
+Text: Recommended
+Text: Most Popular
+Text: manage your cookies
+Text: close popover
+Text: Dell Virtual Assistant - Frequently Asked Questions
